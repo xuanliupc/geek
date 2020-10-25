@@ -2,7 +2,7 @@ package com.geek.learning.secondweek;
 
 import com.geek.learning.secondweek.component.*;
 
-public class Main {
+public class SecondWeek {
     public static void main(String[] args) {
         WinForm winForm = new WinForm("WINDOW窗口");
 
